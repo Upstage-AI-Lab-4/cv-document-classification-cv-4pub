@@ -1,10 +1,8 @@
 # 프로젝트 이름
-<예시 1>
 - 문서 타입 분류 컴퓨터 비전
 <br>
 
 ## 프로젝트 소개
-<예시 1>
 - 문서는 금융, 보험, 물류, 의료 등 도메인을 가리지 않고 많이 취급됩니다. 이 대회는 다양한 종류의 문서 이미지의 클래스를 예측합니다.
 <br>
 
@@ -12,9 +10,9 @@
 
 <div align="center">
 
-| **팀장** | **팀원 1** | **팀원 2** | **팀원 3** | **팀원 4** |
-| :------: |  :------: | :------: | :------: | :------: |
-|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @Github](https://github.com/) |
+| **팀장** | **팀원 1** | **팀원 2** | **팀원 3** |
+| :------: |  :------: | :------: | :------: |
+|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 김동규] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 이주하] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 조성수] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 최승민] |
 </div>
 
 <br>
@@ -28,7 +26,6 @@
 <br>
 
 ## 2. 채택한 개발 기술과 브랜치 전략
-<예시>
 
 ### Pandas, NumPy
 
@@ -79,32 +76,39 @@
 
 ## 4. 역할 분담
 
-### 팀원 1
+### 김동규
 - **역할**
-    - 프로젝트를 진행하며 맡은 역할 작성
+    - 프로젝트 리더
 - **기능**
     - 프로젝트를 진행하며 개발한 기능 작성
 <br>
 
-### 팀원 2
+### 이주하
 - **역할**
-    - 프로젝트를 진행하며 맡은 역할 작성
+    - 프로젝트 베이스코드 기반 개발
 - **기능**
     - 프로젝트를 진행하며 개발한 기능 작성
 <br>
 
-### 팀원 3
+### 조성수
 - **역할**
-    - 프로젝트를 진행하며 맡은 역할 작성
+    - 프로젝트 베이스코드 기반 개발
 - **기능**
     - 프로젝트를 진행하며 개발한 기능 작성
+<br>
+
+### 최승민
+- **역할**
+    - 프로젝트 베이스코드 기반 개발
+- **기능**
+    - 하이퍼파라미터 수정
 <br>
 
 ## 5. 개발 기간 및 작업 관리
 
 ### 개발 기간
-- 전체 개발 기간 : 2024-08-12 ~ 2024-08-19
-- 기능 구현 : 2024-08-00 ~ 2024-08-00
+- 전체 개발 기간 : 2024-10-29 ~ 2024-11-08
+- 기능 구현 : 2024-10-29 ~ 2024-11-08
 - 그외 기간 작성
   
 <br>
@@ -143,10 +147,17 @@ from langchain_openai import OpenAI
 
 ## 5. 프로젝트 후기
 
-### 팀원 1
+### 최승민
+컴퓨터 비전에 대한 이해도가 상승하였습니다.
+
+### 조성수
 프로젝트 후기 작성
 
-### 팀원 2
+### 이주하
 프로젝트 후기 작성
+
+### 김동규
+프로젝트 후기 작성
+
 <br>
 
