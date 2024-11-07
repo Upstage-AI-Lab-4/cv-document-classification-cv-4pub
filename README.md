@@ -12,7 +12,7 @@
 
 | **팀장** | **팀원 1** | **팀원 2** | **팀원 3** |
 | :------: |  :------: | :------: | :------: |
-|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 김동규] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 이주하] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 조성수] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> 최승민] |
+|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @김동규] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @이주하] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @조성수] |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @최승민] |
 </div>
 
 <br>
