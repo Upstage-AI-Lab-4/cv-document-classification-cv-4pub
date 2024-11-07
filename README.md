@@ -12,7 +12,7 @@
 
 | **팀장** | **팀원 1** | **팀원 2** | **팀원 3** |
 | :------: |  :------: | :------: | :------: |
-|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @김동규](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @이주하](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @조성수](https://github.com/) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @최승민](https://github.com/) |
+|[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @김동규](https://github.com/Lumiere001) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @이주하](https://github.com/jl3725) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @조성수](https://github.com/chosungsu) |[<img src="https://avatars.githubusercontent.com/u/156163982?v=4" height=150 width=150> <br/> @최승민](https://github.com/choivember) |
 </div>
 
 <br>
@@ -35,15 +35,6 @@
 
 - Numpy
   - 벡터화 연산을 사용하여, 3000여개 데이터를 효율적으로 처리합니다.
-
-### Beautifulsoup, Selenium
-
-- Beautifulsoup
-  - 네이버 증권 페이지에서 배당률, 주가 등의 정보를 포함한 HTML 테이블에서 데이터를 추출합니다.
-
-- Selenium
-  - 웹 페이지에서 동적 콘텐츠를 로드합니다.
-  - 특정 종목의 배당 데이터를 얻기 위해 종목 검색 후, 관련 페이지로 이동해야 할 때, 이 과정을 자동화합니다. 
 
 ### 브랜치전략 
     
@@ -97,48 +88,16 @@
     - 하이퍼파라미터 수정
 <br>
 
-## 5. 개발 기간 및 작업 관리
+## 5. 개발 기간
 
 ### 개발 기간
 - 전체 개발 기간 : 2024-10-29 ~ 2024-11-08
 - 기능 구현 : 2024-10-29 ~ 2024-11-08
 - 그외 기간 작성
-  
-<br>
-
-### 작업 관리
-<예시>
-
-- 아래와 같은 오류가 발생했습니다.
-
-```python
-C:\Users\yong\AppData\Local\Programs\Python\Python311\Lib\site-packages\langchain_core\_api\deprecation.py:117: LangChainDeprecationWarning: The class `langchain_community.llms.openai.OpenAI` was deprecated in langchain-community 0.0.10 and will be removed in 0.2.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import OpenAI`.
-  warn_deprecated(
-```
-
-### 설명
-
-- langchain_community.llms.openai.OpenAI는 langchain-community 0.0.10에서 deprecate되었으며 0.2.0에서 제거될 예정입니다.
-- 업데이트된 버전의 클래스가 langchain-openai 패키지에 있으며 이것을 사용해야 합니다.
-
-
-### 해결
-
-- 명령 프롬프트(또는 터미널)에서 다음 명령을 실행해 langchain-openai 패키지를 설치합니다.
-
-```python
-pip install -U langchain-openai
-```
-
-- 아래와 같이 import문 변경하면 해결됩니다.
-```python
-from langchain_openai import OpenAI
-```
-
 
 <br>
 
-## 5. 프로젝트 후기
+## 6. 프로젝트 후기
 
 ### 최승민
 컴퓨터 비전에 대한 이해도가 상승하였습니다.
