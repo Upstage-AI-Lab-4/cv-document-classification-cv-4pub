@@ -60,14 +60,7 @@
 ## 3. 프로젝트 구조
 ```
 ├── README.md
-├── .gitignore
-└── src
-     ├── App.py
-     ├── index.py
-     ├── api
-     │     └── GoogleAPI.jsx
-     └── styles
-           └── Globalstyled.jsx
+├── baseline_code_JH.ipynb
 ...
 
 ```
